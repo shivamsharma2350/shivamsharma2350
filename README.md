@@ -39,15 +39,17 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shivamsharma2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamsharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivamsharma2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamsharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivamsharma2350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamsharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" alt="Excel_learn" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://shutterstock.7eer.net/c/2052558/560528/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2F1904337712" alt="SQL" width="40" height="40"/> </a> </p>
 <a href="https://www.arduino.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" alt="Excel_learn" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" width="40" height="40"/> </a> </p>
+<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/statistics.png" alt="Statistics" width="40" height="40"/> </a> </p>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="40" height="40"/> </a> </p>
 
 
