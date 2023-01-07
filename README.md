@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 I’m currently working as Data Analyst at Huawei Telecommunications India Pvt. Ltd.
+- 👨‍💻 I’m currently working as Data Analyst at Huawei Telecommunications India Pvt Lt
 
 
 - 📝 I’m currently working on SQL, Advanced Excel, Python, Pandas, Statistics, Power BI 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **Shivamsharma2350@gmail.com**
 
 
-⚡ Fun fact is a Music & instruments lover and Spritual healer🌱.
+- ⚡ Fun fact is a Music & instruments lover and Spritual healer🌱.
 
 
 <h3 align="left">Connect with me:</h3>
