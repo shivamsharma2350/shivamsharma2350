@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Priyang Bhatt</h1>
-<h3 align="center">Educator By Day. Data Scientist By Night</h3>
+<h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
+<h3 align="center">Data Analyst@ Huawei Telecommunications</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@DataThinkers](https://www.youtube.com/c/priyangbhatt)
+- 👨‍💻 All of my projects are available at [
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Analytics Using Python
 
 - 💬 Ask me about **Machine Learning using Python,Android**
 
-- 📫 How to reach me **datathinkers365@gmail.com**
+- 📫 How to reach me **Shivamsharma2350@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
