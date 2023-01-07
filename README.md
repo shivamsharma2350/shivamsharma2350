@@ -45,7 +45,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" alt="Excel_learn" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" width="40" height="40"/> </a> </p><a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/statistics.png" alt="Statistics" width="40" height="40"/> </a> </p><a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="40" height="40"/> </a> </p>
-<a href="https://www.arduino.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img 
+src="https://img.icons8.com/color/512/microsoft-excel-2019.png" alt="Excel_learn" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" width="40" height="40"/> </a> </p><a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/512/statistics.png" alt="Statistics" width="40" height="40"/> </a> </p><a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="40" height="40"/> </a> </p>
+<a href="https://www.arduino.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 
