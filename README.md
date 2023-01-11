@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **shivamsharma2350@gmail.com**
 
 
-- ⚡ Fun fact is " I like Music & loves to explore Sprituality."🌱.
+- ⚡ Fun fact is " I like Music & love to explore Sprituality."🌱.
 
 
 <h3 align="left">Connect with me:</h3>
