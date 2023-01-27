@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Data+Analyst;%2C+Blogger+%26+Speaker;10%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Data+Analyst;Analyzing+&+Visualizing+Data+to+Make+Better+&+Informed+Decisions+Blogger+%26+Speaker;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
 <h3 align="center">Data Analyst@ Huawei Telecommunications</h3>
