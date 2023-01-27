@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Satyajit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Shivam</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Trainer%2C+Blogger+%26+Speaker;10%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Data+Analyst;%2C+Blogger+%26+Speaker;10%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
 <h3 align="center">Data Analyst@ Huawei Telecommunications</h3>
