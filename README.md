@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m currently working as Azure Data Engineer
 
 
-- 📝 I’m currently working on SQL, Python, ADF, ADLS Gen2, Azure logic Apps, Data Flows, Pypark, Databricks
+- 📝 I’m currently working on SQL, Python, ADF, ADLS Gen2, Logic Apps, Data Flows, Pypark, Databricks
 
 
 - 💻 Check my Projects and other Repos.
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img 
-src="https://img.icons8.com/color/512/microsoft-excel-2019.png" alt="Excel_learn" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+src="https://logos-world.net/wp-content/uploads/2024/01/Databricks-Logo-500x281.png" alt="Excel_learn" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" width="40" height="40"/> </a> </p>
