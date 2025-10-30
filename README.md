@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Azure+Data+Engineer;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="center"><Azure Data Engineer>
+<h3 align="center"><>
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 I’m currently working as Data Analyst at Huawei Telecommunications
+- 👨‍💻 I’m currently working as Azure Data Engineer
 
 
-- 📝 I’m currently working on SQL, Advanced Excel, Python, Pandas, Statistics, Power BI 
+- 📝 I’m currently working on SQL, Python, ADF, ADLS Gen2, Azure logic Apps, Data Flows, Pypark, Databricks
 
 
 - 💻 Check my Projects and other Repos.
