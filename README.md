@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="center">Data Analyst@ Huawei Telecommunications</h3>
+<h3 align="center"><img width="166" height="148" alt="image" src="https://github.com/user-attachments/assets/d6a5bedc-5aa7-48e9-8244-4a2287e72211" Azure Data Engineer/>
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
