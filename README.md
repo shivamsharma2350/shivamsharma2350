@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Azure+Data+Engineer;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="center"><>
+<h3 align="center">
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img 
-src="https://logos-world.net/wp-content/uploads/2024/01/Databricks-Logo-500x281.png" alt="Excel_learn" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.databricks.com%2Fproduct%2Ffaq&psig=AOvVaw3g4W6mq4eOMOyCcHvKDmOQ&ust=1761905914210000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIid-pjZy5ADFQAAAAAdAAAAABAL" alt="Excel_learn" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" width="40" height="40"/> </a> </p>
